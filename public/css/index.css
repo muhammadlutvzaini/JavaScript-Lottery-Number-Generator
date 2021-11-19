@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;1,800&display=swap");
+body {
+  font-family: "JetBrains Mono", monospace;
+}
+.container {
+  text-align: center;
+}
+.submit {
+  padding-top: 50px;
+  transition: all 0.3s;
+}
+button {
+  padding: 15px;
+  background: #fff;
+  border: #000000 5px solid;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #000000;
+  cursor: pointer;
+  outline: none;
+  border-radius: 10px;
+  transition: all 0.3s;
+}
+button:hover {
+  background: #000000;
+  color: #fff;
+}
+#numbers {
+  font-size: 50px;
+  color: #000000;
+  padding-top: 60px;
+  font-weight: bolder;
+  display: flex;
+  flex-direction: row;
+  transition: all 0.3s;
+}
+#numbers::before,
+#numbers::after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 7px solid #000;
+  margin: auto;
+  transition: all 0.3s;
+}
