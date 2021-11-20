@@ -6,7 +6,7 @@ body {
   text-align: center;
 }
 .submit {
-  padding-top: 30px;
+  padding-top: 50px;
   transition: all 0.3s;
 }
 button {
@@ -19,6 +19,7 @@ button {
   cursor: pointer;
   outline: none;
   border-radius: 10px;
+  letter-spacing: 3px;
   transition: all 0.3s;
 }
 button:hover {
