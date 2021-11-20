@@ -6,7 +6,7 @@ body {
   text-align: center;
 }
 .submit {
-  padding-top: 50px;
+  padding-top: 30px;
   transition: all 0.3s;
 }
 button {
@@ -28,7 +28,7 @@ button:hover {
 #numbers {
   font-size: 50px;
   color: #000000;
-  padding-top: 60px;
+  padding-top: 50px;
   font-weight: bolder;
   display: flex;
   flex-direction: row;
@@ -43,5 +43,5 @@ button:hover {
   transition: all 0.3s;
 }
 .kribo {
-padding-top: 50px;
+  padding-top: 40px;
 }
