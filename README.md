@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript-Lottery-Number-Generator
 
 ---
@@ -20,3 +21,7 @@ Demo : https://muhammadlutvzaini.github.io/JavaScript-Lottery-Number-Generator/
 - **document.getElementById()** Mengambil sebuah value pada inputan di HTML.
 
 - **join()** Menuliskan elemen-elemen array ke dalam satu string dipisahkan oleh karakter yang kita set.
+=======
+# JavaScript Lottery Number Generator
+Demo : https://muhammadlutvzaini.github.io/JavaScript-Lottery-Number-Generator/
+>>>>>>> 2379936b806f8c30ed1aa7c2d1e100f94b04a4b2
